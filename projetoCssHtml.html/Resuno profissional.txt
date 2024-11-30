@@ -1,9 +1,0 @@
-Estudante de Ciência da Computação com sólida base
- em programação estrutural e OO . Experiência acadêmica
- em linguagens como Java, Python e Java Script, Experiências  
-com participação em projetos práticos que envolvem desenvolvimento 
-web e solução de problemas computacionais em bootcamp. Motivado para 
-aplicar conhecimentos em um ambiente profissional, aprimorar habilidades
- técnicas e contribuir para a criação de soluções inovadoras. Proativo, 
-com excelente capacidade de aprendizado e apto a trabalhar em equipe para 
-alcançar resultados eficientes."
